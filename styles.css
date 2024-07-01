@@ -92,7 +92,7 @@ input::-webkit-inner-spin-button {
 }
 
 input {
-    width:300px;
+    width:15vw;
     height:25px;
     margin-right:80px;
     border-radius: 4px;
@@ -116,7 +116,7 @@ label {
 }
 
 button {
-    width:260px;
+    width:13.5vw;
     height: 50px;
     font-size:17px;
     font-weight: 600;
